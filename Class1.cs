@@ -8,6 +8,5 @@ namespace jnikolic
 {
     internal class Class1
     {
-        console.writeline("Pozdrav")
     }
 }
